@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @17Saad
 - 👀 I’m interested in Python projects and resources.
 - 🌱 I’m currently learning Python
--    I hope to collaborate with all Github community soon.
+-    I hope to collaborate with all Github community.
 
 <!---
 17Saad/17Saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
